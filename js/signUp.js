@@ -10,7 +10,8 @@ User_btn.addEventListener('click', () => {
   const password = user_password.value;
 
   if (email === 'dulonmolla88@gmail.com' && password === 'dulonmolla88') {
-    location.href = 'http://127.0.0.1:5500/bank.html'
+//    location.href = 'http://127.0.0.1:5500/bank.html'
+      location.href = 'https://14hak.github.io/js_dom_basic_project/bank.html'
   } else {
     alert('তুই আমার ছেলে না। 😡');
   }
